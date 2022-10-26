@@ -1,0 +1,4 @@
+ /backend/.idea/.
+/backend/backend.iml
+__pycache__/
+/backend/.env
