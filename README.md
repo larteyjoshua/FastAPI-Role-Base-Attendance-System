@@ -14,21 +14,20 @@
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Clone the repo
    ```sh
    git clone https://github.com/larteyjoshua/FastAPI-Role-Base-Attendance-System.git
    ```
-3. Create an Environment Variable using venv
-4. Install Python packages
+2. Create an Environment Variable using venv
+3. Install Python packages
    ```sh
    pip install -r requirements.txt
    ```
-5. Run the Project using the following command
+4. Run the Project using the following command
    ```sh
- uvicorn app.main: app --reload
+    uvicorn app.main: app --reload
    ```
-  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
